@@ -1,7 +1,3 @@
-// RGBW (Red Green Blue White Neo-Pixel starter code
-// 16 LEDS  increment
-// CW Coleman 170413
-
 #include <Adafruit_NeoPixel.h>
 #ifdef __AVR__
   #include <avr/power.h>
